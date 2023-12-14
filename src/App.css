@@ -1,6 +1,8 @@
 .App {
+
   text-align: center;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +37,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Header-color{
+  color: antiquewhite;
 }
